@@ -1,0 +1,13 @@
+{
+    "name": "administrator/composer_demo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wxl",
+            "email": "871500751@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
